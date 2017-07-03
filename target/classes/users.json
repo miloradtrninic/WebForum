@@ -1,0 +1,38 @@
+[ {
+  "username" : "headmod",
+  "password" : "pwd",
+  "role" : "MODERATOR",
+  "name" : "name",
+  "surname" : "surname",
+  "phoneNum" : "555-333",
+  "email" : "email",
+  "registerDate" : "02-04-2005",
+  "subscribedSections" : [ "movieSection" ],
+  "myThreads" : [ "supramen" ],
+  "myComments" : [ 1, 2 ]
+}, {
+  "username" : "regularMod",
+  "password" : "pwd",
+  "role" : "MODERATOR",
+  "name" : "name",
+  "surname" : "surname",
+  "phoneNum" : "555-333",
+  "email" : "email",
+  "registerDate" : "02-04-2005",
+  "subscribedSections" : [ "movieSection" ],
+  "myThreads" : [ "supramen" ],
+  "myComments" : [ 1, 2 ]
+}, {
+  "username" : "mile",
+  "password" : "pwd",
+  "role" : "ADMIN",
+  "name" : "mile",
+  "surname" : "mile",
+  "phoneNum" : "555-333",
+  "email" : "email",
+  "registerDate" : "02-04-2005",
+  "subscribedSections" : [ "movieSection" ],
+  "myThreads" : [ "supramen" ],
+  "myComments" : [ 1, 2 ]
+}
+]

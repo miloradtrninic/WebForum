@@ -1,0 +1,34 @@
+[ {
+  "naturalID" : "supramen",
+  "parentSection" : "movieSection",
+  "title" : "Superman",
+  "type" : "TEXT",
+  "author" : "headmod",
+  "comments" : [ 1, 2 ],
+  "content" : "sadrzaj",
+  "created" : 1496502521777,
+  "likes" : 5,
+  "dislikes" : 1
+}, {
+  "naturalID" : "batman",
+  "parentSection" : "movieSection",
+  "title" : "Batman",
+  "type" : "TEXT",
+  "author" : "headmod",
+  "comments" : [ 1, 2 ],
+  "content" : "sadrzaj",
+  "created" : 1496502521777,
+  "likes" : 5,
+  "dislikes" : 1
+}, {
+  "naturalID" : "superboy",
+  "parentSection" : "movieSection",
+  "title" : "SuperBoy",
+  "type" : "TEXT",
+  "author" : "headmod",
+  "comments" : [ 1, 2 ],
+  "content" : "sadrzaj",
+  "created" : 1496502521777,
+  "likes" : 5,
+  "dislikes" : 1
+} ]

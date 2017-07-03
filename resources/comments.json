@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"author": "headmod",
+		"thread": "supramen",
+		"date": 1496502521778,
+		"parent": null,
+		"subComments": [],
+		"text": "my text 1.2",
+		"likes": 4,
+		"dislikes": 2,
+		"edited": true
+	},
+	{
+		"id": 2,
+		"author": "headmod",
+		"thread": "supramen",
+		"date": 1496502521778,
+		"parent": 1,
+		"subComments": [],
+		"text": "my text 1.3",
+		"likes": 5,
+		"dislikes": 4,
+		"edited": true
+	},
+	{
+		"id": 3,
+		"author": "headmod",
+		"thread": "supramen",
+		"date": 1496502521778,
+		"parent": 1,
+		"subComments": [],
+		"text": "my text 1.3",
+		"likes": 2,
+		"dislikes": 2,
+		"edited": true
+	},
+	{
+		"id": 4,
+		"author": "headmod",
+		"thread": "supramen",
+		"date": 1496502521778,
+		"parent": null,
+		"subComments": [],
+		"text": "my text 2",
+		"likes": 3,
+		"dislikes": 3,
+		"edited": true
+	}
+]

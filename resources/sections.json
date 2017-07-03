@@ -1,0 +1,28 @@
+[ {
+  "id" : 1,
+  "naturalID" : "movieSection",
+  "title" : "Movies section",
+  "description" : "Description",
+  "imagePath" : "image",
+  "rules" : [ "rule 1", "rule 2", "rule 3", "rule 4" ],
+  "headModerator" : "headmod",
+  "moderators" : [ "headmod" ]
+}, {
+  "id" : 2,
+  "naturalID" : "imageSection",
+  "title" : "Image section",
+  "description" : "Description",
+  "imagePath" : "image",
+  "rules" : [ "rule 1", "rule 2", "rule 3", "rule 4" ],
+  "headModerator" : "headmod",
+  "moderators" : [ "headmod" ]
+}, {
+  "id" : 3,
+  "naturalID" : "videpSection",
+  "title" : "Video section",
+  "description" : "Description",
+  "imagePath" : "image",
+  "rules" : [ "rule 1", "rule 2", "rule 3", "rule 4" ],
+  "headModerator" : "headmod",
+  "moderators" : [ "headmod" ]
+} ]

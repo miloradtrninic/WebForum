@@ -1,0 +1,65 @@
+[
+	{
+		"naturalID": "superboy",
+		"parentSection": "movieSection",
+		"title": "SuperBoy",
+		"type": "TEXT",
+		"author": "headmod",
+		"comments": [
+			1,
+			2
+		],
+		"content": "Sadrzaj",
+		"created": "02-05-2005",
+		"likes": 5,
+		"dislikes": 1
+	},
+	{
+		"naturalID": "AngularCourse",
+		"parentSection": "movieSection",
+		"title": "Angular 4 Course",
+		"type": "LINK",
+		"author": "headmod",
+		"comments": [],
+		"content": "https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/",
+		"created": "01-07-2017",
+		"likes": 0,
+		"dislikes": 0
+	},
+	{
+		"naturalID": "Novitekstthread",
+		"parentSection": "imageSection",
+		"title": "Novi tekst thread",
+		"type": "TEXT",
+		"author": "mile",
+		"comments": [],
+		"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget pretium magna. Morbi elementum condimentum elit. Donec nec mollis nunc. Donec aliquet finibus egestas. Sed nec posuere purus. Maecenas porttitor interdum dolor at congue. Sed neque ex, tempus nec rutrum nec, tempor sit amet lectus. Aenean tristique pharetra lacus vel maximus.\r\n\r\nVestibulum ultricies fermentum luctus. Nam quis sapien scelerisque, tincidunt neque et, malesuada nunc. Sed scelerisque vestibulum laoreet. Duis quis dolor a felis aliquam vehicula. Aenean malesuada nunc eu ex pharetra scelerisque. Maecenas aliquet eu lacus vel pulvinar. Vivamus posuere, velit quis vestibulum varius, quam massa pretium sem, ac mattis sapien neque quis turpis.",
+		"created": "01-07-2017",
+		"likes": 0,
+		"dislikes": 0
+	},
+	{
+		"naturalID": "tread",
+		"parentSection": "movieSection",
+		"title": "tread",
+		"type": "IMAGE",
+		"author": "mile",
+		"comments": [],
+		"content": "D:\\mono\\E2\\WebProgramiranje\\.metadata\\.plugins\\org.eclipse.wst.server.core\\tmp1\\wtpwebapps\\WebForum\\resources\\imageserror.png",
+		"created": "01-07-2017",
+		"likes": 0,
+		"dislikes": 0
+	},
+	{
+		"naturalID": "Test",
+		"parentSection": "imageSection",
+		"title": "Test",
+		"type": "TEXT",
+		"author": "miki",
+		"comments": [],
+		"content": "Test",
+		"created": "01-07-2017",
+		"likes": 0,
+		"dislikes": 0
+	}
+]

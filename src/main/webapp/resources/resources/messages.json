@@ -1,0 +1,30 @@
+[
+	{
+		"id" : 1, 
+		"sender": "mile",
+		"recepient": "headmod",
+		"content": "Test od Mila",
+		"seen": false
+	},
+	{
+		"id" : 2,
+		"sender": "mile",
+		"recepient": "headmod",
+		"content": "Test 2 od Mila",
+		"seen": false
+	},
+	{
+		"id" : 3,
+		"sender": "headmod",
+		"recepient": "mile",
+		"content": "Test od headmod",
+		"seen": false
+	},
+	{
+		"id" : 4,
+		"sender": "headmod",
+		"recepient": "mile",
+		"content": "Test od headmod 2",
+		"seen": false
+	}
+]
